@@ -1,7 +1,22 @@
+@media only screen and (max-width: 768px) {
+	/* For mobile phones: */
+	body {
+	  width: 100%;
+	}
+	h1 {
+		font-size: 1em;
+	}
+}
+@media only screen and (min-width: 768px) {
+	/* For Desktops/Tablets */
+	body {
+		width:768px
+	}
+}
 body {
 	font-family: Arial, sans-serif;
-	margin: 0;
-	padding: 0;
+	margin: 0 auto;
+	padding: 0
 }
 header {
 	background-color: white;
