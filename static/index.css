@@ -93,6 +93,10 @@ img {
 	display: inline-block;
 	margin-right: 10px;
 }
+
+.maccentre img {
+	background-color: #012A43;
+}
 footer {
 	background-color: #333;
 	color: white;
